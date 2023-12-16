@@ -1,0 +1,106 @@
+body{
+    background-color: rgb(247, 247, 239);
+    size: auto;
+    
+}
+
+
+
+
+h1 {
+    color: rgb(243, 243, 71);
+    text-align: center;
+    background-color: green;
+}
+p{
+    font-family: Verdana;
+    font-size: 17px;
+    color: black;
+    text-align: left;
+    text-indent: 50px;
+}
+
+.head {
+    background-color: green
+}
+.Next {
+   
+    width: auto;
+    font-size: larger;
+    border-style: none;
+    padding: 10px;
+    color: white;
+    background-color: green;
+    padding: 20px 20px 20px 20px;
+    border-radius: 5px;
+    margin: auto;
+  
+}
+a {
+    text-align: center;
+    margin: 10px;
+    color: white;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+button {
+    border: none;
+}
+
+img{
+    border-style: none;
+}
+
+.login { background-color: rgb(245, 248, 246);}
+input {
+    border-radius: 4px;
+    border-style: none;
+    color: rgb(18, 18, 19);
+    padding: 5px;
+    font-size: large;
+    text-transform: capitalize;
+    background-color: rgb(223, 214, 214);
+}
+div{
+    border-radius: 10px;
+    width: auto;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    
+    color: rgb(243, 240, 240);
+    padding: 10px;
+    background-color: rgb(31, 226, 63);
+
+}
+.red {
+    color: rgb(247, 242, 242);
+    background-color: rgb(247, 94, 94);
+    
+}
+ .blue {
+    background-color: rgba(54, 136, 243, 0.877);
+   
+    color: white;
+    font-size: large;
+ }
+
+ a:hover {
+    color: rgb(122, 75, 75);
+ }
+
+a:active {
+    color: green;
+}
+
+.fromlog {
+    font-size: small;
+    text-align: left;
+    width: auto;
+}
+
+.account {
+    color: rgb(38, 94, 250);
+    margin-left: 0px;
+}
